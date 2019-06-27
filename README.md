@@ -7,7 +7,11 @@ I think building the basic fundamental understading of coding is the most import
   https://www.khanacademy.org/computing/ap-computer-science-principles/computers-101
 2. How does the internet work?
   https://www.khanacademy.org/computing/ap-computer-science-principles/the-internet
-3. How does code work?
+3. How does code work in real life (web application as an example)?
+Personally, reading these two helped me to piece together how frontend, backend, data come together to be shown to the world:
+* Backend Development: https://www.upwork.com/hiring/development/a-beginners-guide-to-back-end-development/
+* Frontend Development: https://www.upwork.com/hiring/development/beginners-guide-to-front-end-development/
+
 
 
 ## Data Structures
@@ -23,8 +27,10 @@ https://medium.com/basecs/tagged/algorithms
 
 # Programming 
 ## Basics in Programming
-https://www.khanacademy.org/computing/ap-computer-science-principles/programming-101
+All the most basic things to know before you dive into coding! Get through all of these and you will be ready to do some mean coding: https://www.khanacademy.org/computing/ap-computer-science-principles/programming-101
 
+
+*more coming*
 
 
 
