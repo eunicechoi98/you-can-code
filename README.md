@@ -2,7 +2,7 @@
 Are you curious about programming? Awesome! I just want to let you know that you can do it. Here are all the resources I narrowed down to that helped me understand what coding is, how to think around a problem, and how to code.
 
 # The Fundamentals
-I think building the basic fundamental understading of coding is the most important step to leardning programming. It's like, if you don't know what + or - symbols mean in an equation, you can't start to solve math problems! 
+I think building the basic fundamental understading of coding is the most important step to leardning programming. It's like, if you don't know what + or - symbols mean in an equation, you can't start to solve math problems! So this is the step where I learned how to piece together the puzzle pieces to later understand what the puzzle pieces together represents (code).
 1. How do computers work?
   https://www.khanacademy.org/computing/ap-computer-science-principles/computers-101
 2. How does the internet work?
